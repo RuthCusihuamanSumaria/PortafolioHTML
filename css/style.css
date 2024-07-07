@@ -118,7 +118,7 @@ span{
 
 .presentacion_enlaces{
     display: flex;/* coloca los cuadrados uno al lado del otro */
-    width: 50%;
+    
     flex-direction: column;/*coloca el contenido de manera vertical*/
     justify-content: space-between;
     align-items: center;/*botones al centro*/
